@@ -4,7 +4,7 @@
 
 **Backend engineer. JavaScript.**
 
-I write JavaScript for a living — mostly backend, mostly APIs. I like building things that actually work: clean routes, proper error handling, stuff you can hand off without explaining for 20 minutes.
+I write JavaScript for a living, mostly backend, mostly APIs. I like building things that actually work: clean routes, proper error handling, stuff you can hand off without explaining for 20 minutes.
 
 - Building with Node.js + Express day to day
 - WebSockets when REST isn't enough
